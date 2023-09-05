@@ -1,7 +1,7 @@
 ## How to get started ?
 
 <ol>
- <li> Clone this repository </li>
+ <li> Fork this repository </li>
  <li>
     <ul>Open your terminal and type:
         <li>npm install -g json-server</li>
